@@ -1,2 +1,3 @@
-# .github
+# DoDoc
+
 Document infrastructure platform
